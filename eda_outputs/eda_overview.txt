@@ -1,0 +1,29 @@
+=== EDA OVERVIEW ===
+Rows: 9319
+Columns: 21
+
+Missing total: 6510 (3.33%)
+Duplicated rows: 0
+
+Dtypes:
+- Latitude: float64
+- Longitude: float64
+- Sample Date: datetime64[ns]
+- Total Alkalinity: float64
+- Electrical Conductance: float64
+- Dissolved Reactive Phosphorus: float64
+- nir: float64
+- green: float64
+- swir16: float64
+- swir22: float64
+- NDMI: float64
+- MNDWI: float64
+- ppt: float64
+- tmax: float64
+- tmin: float64
+- soil: float64
+- pet: float64
+- vpd: float64
+- q: float64
+- aet: float64
+- def: float64
